@@ -1,5 +1,7 @@
 # robotFriends
-My first React App, Robofriends written in CSS, HTML, JavaScript 
+My first React App, Robofriends written in CSS, HTML, JavaScript.
+
+This project are created by using the React JavaScript library, also making use of the Tachyons CSS framework as well as the jsonplaceholder and robohash APIs.
 
 
 React To run the project:
