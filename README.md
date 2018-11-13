@@ -9,5 +9,5 @@ React To run the project:
 3-) Run npm start
   
   
-  <a href="https://github.com/ashleyasli/robotFriends/blob/master/robofriends.png"><img src="robofriends.png" /></a>
+  <a href="https://github.com/ashleyasli/robotFriends/blob/master/robofriends.PNG"><img src="robofriends.PNG" /></a>
 
